@@ -21,7 +21,9 @@ Address real-world constraints such as memory and compute limits
 Dataset
 ----------------------------------------
 Source: NYC Yellow Taxi Dataset
+
 Format: CSV (loaded via Spark)
+
 Size: Millions of rows (reduced samples used for tuning due to system constraints)
 
 ***Disclaimer***
