@@ -9,9 +9,13 @@ The project explores both classification and regression tasks using scalable dat
 Project Objectives
 ----------------------------------------
 Perform large-scale data preprocessing using Spark
+
 Engineer meaningful features from raw taxi trip data
+
 Build and evaluate machine learning pipelines
+
 Compare model performance using appropriate metrics
+
 Address real-world constraints such as memory and compute limits
 
 Dataset
